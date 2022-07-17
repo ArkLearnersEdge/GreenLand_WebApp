@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GreenLand_WebApp/1.0.0": {
+        "runtime": {
+          "GreenLand_WebApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GreenLand_WebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
